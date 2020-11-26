@@ -1,0 +1,183 @@
+.collapsed-menu {
+
+    width: 50px;
+
+}
+
+.collapsed-hamburger {
+
+    user-select: none;
+    margin-left: 0px;
+    /* margin-left: -15px; */
+
+}
+
+.normal-hamburger {
+
+    user-select: none;
+    margin-left: -5px;
+
+}
+
+.audiobookrocket-logo {
+
+    margin-left: -10px;
+
+}
+
+.listener-dashboard {
+
+    font-family: Futura-Bold-03;
+    color: #222222;
+    text-align: center;
+    margin-left: -5px;
+    font-size: 15px;
+
+}
+
+.listener-dashboard-mobile {
+
+    font-family: Futura-Bold-03;
+    color: #222222;
+    text-align: center;
+    margin-left: -5px;
+    font-size: 20px;
+
+}
+.collapsed-home {
+
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    margin-top: -5px;
+    /* margin-left: -17px; */
+    margin-left: -2px;
+
+}
+
+.home {
+
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: -3px;
+
+}
+
+.home-mobile {
+
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    margin-top: -5px;
+    margin-left: -3px;
+
+}
+
+.dashboard {
+
+    font-family: Futura-Medium-01;
+    margin-left: 10px;
+    font-size: 15px;
+    color: #222222;
+
+}
+
+.dashboard-mobile {
+
+    font-family: Futura-Medium-01;
+    margin-left: 15px;
+    font-size: 20px;
+    color: #222222;
+
+}
+
+.Audiobook_Logo {
+
+    height: '16.08px';
+    width: '22px'; 
+    text-align: 'center';
+    margin-top: "-5px";
+    margin-left: "-3px"
+
+}
+
+.audiobook-text {
+
+    font-family: Futura-Medium-01;
+    color: #222222;
+    margin-left: 9px;
+    font-size: 15px;
+
+}
+
+.audiobook-text-mobile {
+
+    font-family: Futura-Medium-01;
+    color: #222222;
+    margin-left: 14px;
+    font-size: 20px;
+
+}
+
+.reviews-text {
+
+    font-family: Futura-Medium-01;
+    margin-left: 14px;
+    font-size: 15px;
+    color: #222222;
+
+}
+
+.reviews-text-mobile {
+
+    font-family: Futura-Medium-01;
+    margin-left: 23px;
+    font-size: 20px;
+    color: #222222;
+
+}
+
+.settings-text {
+
+    font-family: Futura-Medium-01;
+    font-size: 15px;
+    color: #222222;
+    margin-left: 11px;
+
+}
+
+.settings-text-mobile {
+
+    font-family: Futura-Medium-01;
+    font-size: 20px;
+    color: #222222;
+    margin-left: 16px;
+
+}
+
+.confirmedReviews {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 16px;
+    color: #000000;
+
+}
+
+.confirmed-reviews-mobile {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 16px;
+    color: #000000;
+    flex: 1;
+
+}
+
+.numbers-mobile {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 20px;
+    color: #000000;
+
+}

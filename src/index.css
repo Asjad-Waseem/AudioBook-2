@@ -1,0 +1,60 @@
+@font-face {
+
+  font-family: 'AvenirNext-DemiBold-03';
+  src: local('AveniNext-DemiBold-03'), url('./Fonts/AvenirNext-DemiBold-03.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'AvenirNext-Medium-06';
+  src: local('AvenirNext-Medium-06'), url('./Fonts/AvenirNext-Medium-06.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'Futura-Bold-03';
+  src: local('Futura-Bold-03'), url('./Fonts/Futura-Bold-03.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'Futura-Medium-01';
+  src: local('Futura-Medium-01'), url('./Fonts/Futura-Medium-01.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'HelveticaNeue-01';
+  src: local('HelveticaNeue-01'), url('./Fonts/HelveticaNeue-01.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'HelveticaNeue-Medium-11';
+  src: local('HelveticaNeue-Medium-11'), url('./Fonts/HelveticaNeue-Medium-11.ttf') format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'Roboto-Regular';
+  src: local('Roboto-Regular'), url('./Fonts/Roboto-Regular.ttf') format('truetype');
+
+}
+
+body {
+  margin: 0;
+  font-family: 'AvenirNext-DemiBold-03', 'AvenirNext-Medium-06', 'Futura-Bold-03', 'Futura-Medium-01', 'HelveticaNeue-01', 'HelveticaNeue-Medium-11', 'Roboto-Regular';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace, AvenirNext-DemiBold-03, AvenirNext-Medium-06, Futura-Bold-03, Futura-Medium-01, HelveticaNeue-Medium-11, Roboto-Regular;
+}

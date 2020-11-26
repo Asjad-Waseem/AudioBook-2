@@ -1,0 +1,24 @@
+.pendingConfirmation {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 16px;
+    color: #000000;
+    flex: 1;
+
+}
+
+.Count {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 50px;
+    color: #000000;
+
+}
+
+.count-mobile {
+
+    font-family: AvenirNext-DemiBold-03;
+    font-size: 20px;
+    color: #000000;
+
+}

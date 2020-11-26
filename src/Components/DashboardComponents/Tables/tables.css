@@ -1,0 +1,130 @@
+.MODAL{
+
+    background: linear-gradient(180deg, #FFFFFF 0%, #FEFEFE 100%);
+
+}
+
+.MODALTITLE{
+
+margin-top: 30px;
+font-family: Roboto-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 22px;
+color: #222222;
+
+}
+
+.MODALCHECKBOXES{
+
+font-family: Roboto-Regular;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+color: #686868;
+
+}
+
+.CancelBtn {
+
+    background-color: white;
+    border-radius: 5px;
+    width: 100px;
+    height: 44px;
+    border: 0.7solid;
+    border-color: #B8B298;
+    font-family: AvenirNext-Medium-06;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+    color: #B8B298;
+
+}
+
+.Submit {
+
+    background-color: #00A2FF;
+    border-radius: 4px;
+    width: 100px;
+    height: 44px;
+    font-family: AvenirNext-Medium-06;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    display: inline-block;
+
+}
+
+.ReviewsTableTitle {
+
+margin-top: 15px;    
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #222222;
+
+}
+
+.ReviewsTableData {
+
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+color: #222222;
+
+}
+
+.RequestedTableTitle {
+
+margin-top: 15px;    
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 17px;
+color: #222222;
+    
+}
+
+.RequestedTableOptions {
+
+    font-family: Futura-Medium-01;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 1.079px;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.RequestedTableData {
+
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+color: #222222;
+
+}
+
+.AudioBookName {
+
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+color: #4B76A4;
+    
+}

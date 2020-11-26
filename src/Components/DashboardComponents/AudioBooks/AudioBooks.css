@@ -1,0 +1,69 @@
+.AUDIOBBOOKNAME {
+
+font-family: Futura;
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 17px;
+
+color: #4B76A4;
+
+}
+
+.TABLEDATA{
+
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+color: #222222;
+
+}
+
+.DAYSREMAINING{
+
+font-family: Futura-Medium-01;
+font-style: normal;
+font-weight: bold;
+font-size: 13px;
+color: #FF003D;
+
+}
+
+.REQUIRESREVIEW{
+
+font-family: AvenirNext-DemiBold-03;
+font-size: 16px;
+color: #000000;
+
+}
+
+.ONE{
+
+margin-top: 10px;
+font-family: HelveticaNeue-Medium-11;
+font-size: 50px;
+text-transform: uppercase;
+color: #000000;
+
+}
+
+.VIEW{
+    
+font-family: HelveticaNeue-01;
+font-size: 13px;
+line-height: 15px;
+
+}
+
+.AudiobooksTableTitle {
+
+    text-align: left;
+    margin-top: 20px;
+    font-family: Futura-Bold-03;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+    color: #222222;
+
+}
